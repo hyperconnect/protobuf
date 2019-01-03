@@ -186,3 +186,6 @@ cmake/cmake-build-debug/
 # Common build subdirectories.
 ./.build/
 ./_build/
+
+hpcnt/android
+hpcnt/ios
